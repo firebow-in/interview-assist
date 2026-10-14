@@ -1,0 +1,7 @@
+gradio
+openai-whisper
+moviepy
+setuptools-rust
+ffmpeg-python
+matplotlib
+numpy
